@@ -1,12 +1,51 @@
 .jumbotron {
-    padding-top: 7rem;
-    background-color: #e2edff;
+  padding-top: 7rem;
+  background-color: #0f172a;
+  color: gray;
 }
 
 #galery {
-    background-color: #e2edff;
+  background-color: #0f172a;
+  color: white;
+}
+
+#contact {
+  background-color: #334155;
+  color: white;
+}
+.card-text {
+  color: gray;
+}
+
+#about {
+  background-color: #334155;
+  color: white;
 }
 
 section {
-    padding-top: 6rem;
+  padding-top: 6rem;
+}
+
+.condes1 {
+  font-size: 20px;
+  color: #06b6d4;
+}
+
+.condes2 {
+  font-weight: bold;
+  margin-bottom: 30px;
+  font-size: 50px;
+}
+
+.form-label {
+  font-weight: bold;
+  color: #06b6d4;
+}
+
+.btn {
+  background-color: #06b6d4;
+}
+
+footer {
+  background-color: #0f172a;
 }
