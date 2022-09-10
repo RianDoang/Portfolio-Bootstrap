@@ -34,6 +34,7 @@ section {
 .condes2 {
   font-weight: bold;
   margin-bottom: 30px;
+  margin-top: -10px;
   font-size: 50px;
 }
 
@@ -48,4 +49,9 @@ section {
 
 footer {
   background-color: #0f172a;
+}
+
+.MR {
+  color: whitesmoke;
+  margin-top: 20px;
 }
